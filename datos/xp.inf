@@ -1,0 +1,8 @@
+[programación en parejas] .- Dos programadores trabajan juntos en una misma computadora: uno escribe el código y el otro lo revisa.
+[tdd] .- Desarrollo guiado por pruebas: primero se escribe la prueba automatizada y después el código que la hace pasar.
+[refactorización] .- Mejora de la estructura interna del código sin cambiar su comportamiento externo.
+[integración continua] .- Práctica de integrar el código de todo el equipo al repositorio compartido varias veces al día.
+[historias de usuario] .- Descripciones breves de una funcionalidad desde el punto de vista del usuario.
+[entregas pequeñas] .- Liberar versiones funcionales del software de forma frecuente y en ciclos cortos.
+[diseño simple] .- Mantener el diseño lo más sencillo posible, implementando solo lo que se necesita hoy.
+[propiedad colectiva del código] .- Cualquier integrante del equipo puede modificar cualquier parte del código.
