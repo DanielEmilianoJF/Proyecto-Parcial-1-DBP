@@ -1,0 +1,8 @@
+[crystal] .- Familia de metodologías ágiles creada por Alistair Cockburn que se adapta al tamaño y criticidad del proyecto.
+[crystal clear] .- Variante para equipos muy pequeños (aproximadamente de 1 a 6 personas) en proyectos de bajo riesgo.
+[crystal yellow] .- Variante para equipos pequeños (aproximadamente de 10 a 20 personas).
+[crystal orange] .- Variante para equipos medianos (aproximadamente de 20 a 50 personas).
+[crystal red] .- Variante para equipos grandes (aproximadamente de 50 a 100 personas).
+[comunicación osmótica] .- Los integrantes comparten el mismo espacio y se enteran de la información de forma natural, como por ósmosis.
+[mejora reflexiva] .- El equipo se detiene periódicamente a analizar su forma de trabajar y a mejorarla.
+[entregas frecuentes] .- Se entrega software funcional al cliente en intervalos cortos y regulares.
