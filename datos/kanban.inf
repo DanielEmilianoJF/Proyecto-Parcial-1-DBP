@@ -1,0 +1,7 @@
+[tablero kanban] .- Panel visual dividido en columnas que muestra el estado de cada tarea del flujo de trabajo.
+[wip] .- Work In Progress: límite de tareas que pueden estar en curso al mismo tiempo en una columna.
+[tarjeta] .- Elemento del tablero que representa una tarea o unidad de trabajo.
+[flujo continuo] .- Las tareas avanzan por el tablero de forma constante, sin iteraciones de duración fija.
+[lead time] .- Tiempo total que transcurre desde que se solicita una tarea hasta que se entrega.
+[cuello de botella] .- Etapa del proceso donde se acumula el trabajo y se limita la velocidad de todo el flujo.
+[sistema pull] .- El equipo toma nuevo trabajo solo cuando tiene capacidad, en lugar de que se le asigne a la fuerza.
