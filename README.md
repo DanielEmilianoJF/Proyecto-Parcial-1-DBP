@@ -60,7 +60,7 @@ chmod +x app.sh
 ```bash
 git clone https://github.com/DanielEmilianoJF/Proyecto-Parcial-1-DBP.git
 cd Proyecto-Parcial-1-DBP
-docker build -t <USUARIO_DOCKERHUB>/<NOMBRE_IMAGEN>:1.0 .
+docker build -t a367633-ctrl/guia-metodologias:1.0 .
 ```
 
 ### Opción 3: descargar la imagen publicada en Docker Hub
@@ -68,10 +68,10 @@ docker build -t <USUARIO_DOCKERHUB>/<NOMBRE_IMAGEN>:1.0 .
 No requiere clonar el repositorio:
 
 ```bash
-docker pull <USUARIO_DOCKERHUB>/<NOMBRE_IMAGEN>:1.0
+docker pull a367633-ctrl/guia-metodologias:1.0
 ```
 
-Imagen en Docker Hub: [https://hub.docker.com/r/USUARIO_DOCKERHUB/NOMBRE_IMAGEN](https://hub.docker.com/r/USUARIO_DOCKERHUB/NOMBRE_IMAGEN)
+Imagen en Docker Hub: [https://hub.docker.com/r/a367633-ctrl/guia-metodologias](https://hub.docker.com/r/a367633-ctrl/guia-metodologias)
 
 ## Ejecución
 
@@ -89,14 +89,14 @@ La aplicación **requiere un parámetro obligatorio** que indica el tipo de meto
 La aplicación es interactiva, por lo que el contenedor debe iniciarse con `-it`:
 
 ```bash
-docker run -it <USUARIO_DOCKERHUB>/<NOMBRE_IMAGEN>:1.0        # ágiles (-a, valor por defecto)
-docker run -it <USUARIO_DOCKERHUB>/<NOMBRE_IMAGEN>:1.0 -t     # tradicionales
+docker run -it a367633-ctrl/guia-metodologias:1.0        # ágiles (-a, valor por defecto)
+docker run -it a367633-ctrl/guia-metodologias:1.0 -t     # tradicionales
 ```
 
 Los cambios hechos a los archivos `.inf` dentro del contenedor se pierden al eliminarlo. Para conservarlos, se puede montar la carpeta `datos/` del repositorio clonado:
 
 ```bash
-docker run -it -v "$(pwd)/datos:/app/datos" <USUARIO_DOCKERHUB>/<NOMBRE_IMAGEN>:1.0 -a
+docker run -it -v "$(pwd)/datos:/app/datos" a367633-ctrl/guia-metodologias:1.0 -a
 ```
 
 ## Scripts / comandos disponibles
