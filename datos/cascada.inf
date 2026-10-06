@@ -1,0 +1,7 @@
+[cascada] .- Modelo secuencial en el que cada fase se completa antes de pasar a la siguiente, sin regresar.
+[requisitos] .- Primera fase: se recopilan y documentan todas las necesidades del cliente.
+[diseño] .- Fase en la que se define la arquitectura y la estructura del sistema a partir de los requisitos.
+[implementación] .- Fase en la que se escribe el código según el diseño definido.
+[pruebas] .- Fase en la que se verifica que el software cumpla con los requisitos establecidos.
+[mantenimiento] .- Fase posterior a la entrega en la que se corrigen errores y se hacen mejoras.
+[documentación] .- En este modelo se produce documentación extensa al terminar cada fase.

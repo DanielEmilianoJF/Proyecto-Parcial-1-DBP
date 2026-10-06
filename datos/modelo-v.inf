@@ -1,0 +1,7 @@
+[modelo v] .- Variante del modelo en cascada donde cada fase de desarrollo tiene una fase de pruebas asociada.
+[verificación] .- Proceso que comprueba que el producto se está construyendo correctamente según las especificaciones.
+[validación] .- Proceso que comprueba que el producto final satisface las necesidades reales del usuario.
+[pruebas unitarias] .- Pruebas sobre componentes individuales; se relacionan con la fase de diseño detallado.
+[pruebas de integración] .- Pruebas que verifican que los módulos funcionen correctamente en conjunto.
+[pruebas de sistema] .- Pruebas del sistema completo para verificar los requisitos y el diseño de la arquitectura.
+[pruebas de aceptación] .- Pruebas realizadas con el cliente para confirmar que el sistema cumple sus necesidades.
