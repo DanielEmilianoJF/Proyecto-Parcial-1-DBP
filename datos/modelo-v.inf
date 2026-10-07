@@ -5,3 +5,4 @@
 [pruebas de integración] .- Pruebas que verifican que los módulos funcionen correctamente en conjunto.
 [pruebas de sistema] .- Pruebas del sistema completo para verificar los requisitos y el diseño de la arquitectura.
 [pruebas de aceptación] .- Pruebas realizadas con el cliente para confirmar que el sistema cumple sus necesidades.
+ 
